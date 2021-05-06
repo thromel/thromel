@@ -32,8 +32,9 @@
 
 ### Frameworks & Libraries
 
+<p align = "center">
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/react-native.png"/>
-
+</p>
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{thr0m3l}/count.svg)
