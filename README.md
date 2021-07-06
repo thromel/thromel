@@ -7,10 +7,12 @@ Hello, I'm Romel. I write codes and I procrastinate. Currently a 3rd year underg
 
 ### Interests
 - Algorithms
+- Backend web development
 - Deep Learning
 - Statistics
 - Natural Language Processing
 - Compilers
+- DevOps
 
 and so many random stuff like: Geography, Economics, Conspiracy theories, Football...
 
