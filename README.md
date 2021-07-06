@@ -1,45 +1,47 @@
-## Hi there, I'm Tanzim Hossain Romel
+## Tanzim Hossain Romel ##
+---
 
+### About Me
+
+Hello, I'm Romel. I write codes and I procrastinate. Currently a 3rd year undergrad majoring in Computer Science and Engineering at BUET (Bangladesh University of Engineering and Technology). 
+
+### Interests
+- Algorithms
+- Deep Learning
+- Statistics
+- Natural Language Processing
+- Compilers
+
+and so many random stuff like: Geography, Economics, Conspiracy theories, Football...
+
+
+### Technology Stack ###
+- General Purpose : 
+   C/C++, Java, Python, Node.js
+
+- Databases : 
+   MongoDB, Oracle PL/SQL, PostgreSQL
+
+- Backend:
+   Express.js, Django
+   
+- Front End : 
+  HTML, CSS, React.js
+
+- Operating System : 
+   Ubuntu, Windows
+
+- Tools:
+   Git, Docker
+  
+- Learning : 
+   Next.js, Pytorch, NLP
+  
+
+## Contact ##
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<a href="mailto:romel.rcs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-romel.rcs@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://twitter.com/RomelRcs"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tanzim Hossain Romel-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/r0m3l/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanzim Hossain Romel-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.facebook.com/romel.buetcse17/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tanzim Hossain Romel-blue?style=flat&logo=facebook"></a>
 </p>
-
-
-- I'm **Student** | **Developer** | **Programmer** | **Learner**
-- Currently Learning **Web Development** And **Deep Learning**
-- Willing to contribute more and more in **Open Source Projects**
-
-
-### Feel Free to Contact me.....
-
-<p align="center">
-	<a href="https://github.com/thr0m3l"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/r0m3l/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/romel.buetcse17/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/romel_rcs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/RomelRcs"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
-
-### Programming Languages....
-
-<p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
-</p>
-
-### Frameworks & Libraries
-
-<p align = "center">
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/react-native.png"/>
-</p>
-
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{thr0m3l}/count.svg)
-
-
-----
-
-Last Edited on: 07/05/2021
