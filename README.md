@@ -31,7 +31,7 @@ and so many random stuff like: Geography, Economics, Conspiracy theories, Footba
   HTML, CSS, React.js
 
 - Operating System : 
-   Ubuntu, Windows
+   Fedora, Ubuntu, Windows
 
 - Tools:
    Git, Docker
