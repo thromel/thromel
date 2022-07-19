@@ -3,16 +3,14 @@
 
 ### About Me
 
-Hello, I'm Romel. I write codes and I procrastinate. Currently a 3rd year undergrad majoring in Computer Science and Engineering at BUET (Bangladesh University of Engineering and Technology). 
+Hello there! Just another CS undergrad, in his senior year. I'm passionate about learning new things and applying them do real projects. I plan to start as a Software Engineer soon. 
 
 ### Interests
-- Algorithms
-- Backend web development
-- Deep Learning
-- Natural Language Processing
+- Algorithms & Problem Solving
+- Backend Web Development
+- Distributed Systems
 - DevOps
-
-and so many random stuff like: Geography, Economics, Conspiracy theories, Football...
+- Blockchain
 
 
 ### Technology Stack ###
@@ -20,22 +18,21 @@ and so many random stuff like: Geography, Economics, Conspiracy theories, Footba
    C/C++, Java, Python, Node.js
 
 - Databases : 
-   MongoDB, Oracle PL/SQL, PostgreSQL
+   MongoDB, Oracle PL/SQL, PostgreSQL, Redis, Firebase
 
 - Backend:
    Express.js, Django
    
 - Front End : 
-  HTML, CSS, React.js
-
-- Operating System : 
-   Fedora, Ubuntu, Windows
+  HTML, CSS, React.js, Next.js
 
 - Tools:
-   Git, Docker
+   Git, Docker, Kubernetes
+   
+- Blockchain Frameworks:
+   Ethereum
+   
   
-- Learning : 
-   Next.js, Pytorch, NLP
   
 
 ## Contact ##
