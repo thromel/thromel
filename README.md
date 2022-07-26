@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hello there! Just another CS undergrad, in his senior year. I'm passionate about learning new things and applying them do real projects. I plan to start as a Software Engineer soon. 
+Hello there! Just another CS undergrad, in his senior year. I'm passionate about learning new things and applying them in real projects. I plan to start as a Software Engineer soon, so I'm currently preparing for that.
 
 ### Interests
 - Algorithms & Problem Solving
@@ -27,7 +27,7 @@ Hello there! Just another CS undergrad, in his senior year. I'm passionate about
   HTML, CSS, React.js, Next.js
 
 - Tools:
-   Git, Docker, Kubernetes
+   Git, Docker, Kubernetes, NATS, RabbitMQ, NGINX
    
 - Blockchain Frameworks:
    Ethereum
