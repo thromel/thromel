@@ -1,37 +1,63 @@
-## Tanzim Hossain Romel ##
+## Tanzim Hossain Romel 🚀 ##
 ---
 
-### About Me
+### 🌟 About Me ###
 
-Hello there! Just another CS undergrad, in his senior year. I'm passionate about learning new things and applying them in real projects. I plan to start as a Software Engineer soon, so I'm currently preparing for that.
+Hey there! 👋 I'm Tanzim, a senior Computer Science undergrad who loves exploring the ever-evolving tech universe. As a passionate learner, I'm always eager to dive into new projects and discover innovative solutions. Currently, I'm gearing up to embark on an exciting journey as a Software Engineer! 🚀
 
-### Interests
-- Algorithms & Problem Solving
-- Backend Web Development
-- Distributed Systems
-- DevOps
-- Blockchain
+### 🎯 Interests ###
+- 🧩 Algorithms & Problem Solving
+- 🌐 Backend Web Development
+- 🌩️ Distributed Systems
+- ⚙️ DevOps
+- 🔗 Blockchain
+- 🧠 Machine Learning
 
 
-### Technology Stack ###
-- General Purpose : 
-   C/C++, Java, Python, Node.js
+### 💻 Technology Stack ###
 
-- Databases : 
-   MongoDB, Oracle PL/SQL, PostgreSQL, Redis, Firebase
+#### General Purpose:
 
-- Backend:
-   Express.js, Django
-   
-- Front End : 
-  HTML, CSS, React.js, Next.js
+- 💡 C/C++
+- ☕ Java
+- 🐍 Python
+- 🟢 Node.js
+ #### Databases:
 
-- Tools:
-   Git, Docker, Kubernetes, NATS, RabbitMQ, NGINX
-   
-- Blockchain Frameworks:
-   Ethereum
-   
+- 🌿 MongoDB
+- 🔶 Oracle PL/SQL
+- 🐘 PostgreSQL
+- 🔥 Redis
+- 🌐 Firebase
+
+#### Backend:
+
+- 🚅 Express.js
+- 🎩 Django
+
+
+#### Front End:
+
+- 🎨 HTML, CSS
+- ⚛️ React.js
+- 🌐 Next.js
+
+#### Tools:
+
+- 🌲 Git
+- 🐳 Docker
+- ⚓ Kubernetes
+- 🐇 RabbitMQ
+- 🚦 NGINX
+
+#### Blockchain:
+
+- 🌐 Ethereum
+- 
+#### Machine Learning:
+
+- 🤖 PyTorch
+  
   
   
 
