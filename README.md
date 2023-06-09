@@ -3,7 +3,7 @@
 
 ### 🌟 About Me ###
 
-Hey there! 👋 I'm Tanzim, a senior Computer Science undergrad who loves exploring the ever-evolving tech universe. As a passionate learner, I'm always eager to dive into new projects and discover innovative solutions. Currently, I'm gearing up to embark on an exciting journey as a Software Engineer! 🚀
+Hey there! 👋 I'm Tanzim, recently graduated from Department of CSE, BUET. I'm currently working as a Software Development Engineer at IQVIA. I'm currently focusing on developing myself as a Backend Developer. I'm currenly learning C#, .NET, Entity Framework intensively. 🚀
 
 ### 🎯 Interests ###
 - 🧩 Algorithms & Problem Solving
