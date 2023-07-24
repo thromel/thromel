@@ -1,70 +1,45 @@
-## Tanzim Hossain Romel 🚀 ##
----
+## Hey there, 🚀 Tanzim Hossain Romel! ##
+### 💻 Software Dev | BUET Grad | Backend Enthusiast | Lifelong Learner ###
 
-### 🌟 About Me ###
+Welcome to my world of tech exploration! 👨‍💻 I graduated from the prestigious Department of CSE at BUET and am now soaring as a Software Development Engineer at IQVIA. I'm not just a coder; I'm a wizard crafting dreams into reality. ✨
 
-Hey there! 👋 I'm Tanzim, recently graduated from Department of CSE, BUET. I'm currently working as a Software Development Engineer at IQVIA. I'm currently focusing on developing myself as a Backend Developer. I'm currenly learning C#, .NET, Entity Framework intensively. 🚀
+### 🎯 A Glimpse into My Tech Galaxy 🌌 ###
+- 🧩 Master of Algorithms and Problem Solving: I crack codes like a secret agent on a mission!
+- 🌐 Backend Web Development: Weave magic with server-side sorcery.
+- 🌩️ Distributed Systems: I believe in the power of decentralization! 
+- ⚙️ DevOps: The force that keeps the development universe in balance.
+- 🔗 Blockchain: Unraveling the mysteries of decentralized ledgers! 
 
-### 🎯 Interests ###
-- 🧩 Algorithms & Problem Solving
-- 🌐 Backend Web Development
-- 🌩️ Distributed Systems
-- ⚙️ DevOps
-- 🔗 Blockchain
-- 🧠 Machine Learning
+### 💻 My Stack of Superpowers ###
 
+#### General Purpose 💪
+- C/C++, Java, Python, Typescript, and C#
 
-### 💻 Technology Stack ###
+#### Databases 🗃️
+- 🌿 MongoDB, 🔶 Oracle PL/SQL, 🐘 PostgreSQL, 🔥 Redis, 🌐 Firebase, Microsoft SQL Server
 
-#### General Purpose:
+#### Backend 🚀
+- 🚅 Express.js, 🎩 Django, ASP.NET, Nest.js
 
-- 💡 C/C++
-- ☕ Java
-- 🐍 Python
-- 🟢 Node.js
- #### Databases:
+#### Front End 🎨
+- ⚛️ React.js, 🌐 Next.js
 
-- 🌿 MongoDB
-- 🔶 Oracle PL/SQL
-- 🐘 PostgreSQL
-- 🔥 Redis
-- 🌐 Firebase
+#### Tools 🛠️
+- 🌲 Git, 🐳 Docker, ⚓ Kubernetes, 🐇 RabbitMQ, 🚦 NGINX
 
-#### Backend:
+#### Blockchain ⛓️
+- 🌐 Ethereum, Hyperledger Fabric
 
-- 🚅 Express.js
-- 🎩 Django
-
-
-#### Front End:
-
-- 🎨 HTML, CSS
-- ⚛️ React.js
-- 🌐 Next.js
-
-#### Tools:
-
-- 🌲 Git
-- 🐳 Docker
-- ⚓ Kubernetes
-- 🐇 RabbitMQ
-- 🚦 NGINX
-
-#### Blockchain:
-
-- 🌐 Ethereum
-- 
-#### Machine Learning:
-
+#### Machine Learning 🤖
 - 🤖 PyTorch
-  
-  
-  
 
-## Contact ##
-<p align="center">
-<a href="mailto:romel.rcs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-romel.rcs@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://twitter.com/RomelRcs"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tanzim Hossain Romel-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/r0m3l/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanzim Hossain Romel-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.facebook.com/romel.buetcse17/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tanzim Hossain Romel-blue?style=flat&logo=facebook"></a>
-</p>
+### 📞 Contact Me ###
+
+I'm always ready for a tech-filled adventure! Feel free to reach out to me through any of these portals:
+
+📧 Email: romel.rcs@gmail.com
+🐦 Twitter: [@RomelRcs](https://twitter.com/RomelRcs)
+💼 LinkedIn: [Tanzim Hossain Romel](https://www.linkedin.com/in/r0m3l/)
+📘 Facebook: [Tanzim Hossain Romel](https://www.facebook.com/romel.buetcse17/)
+
+Let's connect and have a discussion about anything! 🌟
