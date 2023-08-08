@@ -4,33 +4,25 @@
 Welcome to my world of tech exploration! 👨‍💻 I graduated from the prestigious Department of CSE at BUET and am now soaring as a Software Development Engineer at IQVIA. I'm not just a coder; I'm a wizard crafting dreams into reality. ✨
 
 ### 🎯 A Glimpse into My Tech Galaxy 🌌 ###
-- 🧩 Master of Algorithms and Problem Solving: I crack codes like a secret agent on a mission!
-- 🌐 Backend Web Development: Weave magic with server-side sorcery.
-- 🌩️ Distributed Systems: I believe in the power of decentralization! 
-- ⚙️ DevOps: The force that keeps the development universe in balance.
-- 🔗 Blockchain: Unraveling the mysteries of decentralized ledgers! 
+- 🧩 Master of Algorithms and Problem Solving
+- 🌐 Backend Web Development
+- 🌩️ Distributed Systems
+- ⚙️ DevOps
+- 🔗 Blockchain
 
-### 💻 My Stack of Superpowers ###
-
-#### General Purpose 💪
-- C/C++, Java, Python, Typescript, and C#
-
-#### Databases 🗃️
-- 🌿 MongoDB, 🔶 Oracle PL/SQL, 🐘 PostgreSQL, 🔥 Redis, 🌐 Firebase, Microsoft SQL Server
-
-#### Backend 🚀
-- 🚅 Express.js, 🎩 Django, ASP.NET, Nest.js
-
-#### Front End 🎨
-- ⚛️ React.js, 🌐 Next.js
-
-#### Tools 🛠️
+### General Purpose 💪
+- 📚 C/C++, ☕ Java, 🐍 Python, 🚀 Typescript, and 🎯 C#
+### Databases 🗃️
+- 🌿 MongoDB, 🔶 Oracle PL/SQL, 🐘 PostgreSQL, 🔥 Redis, 🌐 Firebase, 💼 Microsoft SQL Server
+### Backend 🚀
+- 🚅 Express.js, 🎩 Django, 🌐 ASP.NET, 🐦 Nest.js
+### Front End 🎨
+- ⚛️ React.js, 🌐 Next.js, 🔺 Angular
+### Tools 🛠️
 - 🌲 Git, 🐳 Docker, ⚓ Kubernetes, 🐇 RabbitMQ, 🚦 NGINX
-
-#### Blockchain ⛓️
-- 🌐 Ethereum, Hyperledger Fabric
-
-#### Machine Learning 🤖
+### Blockchain ⛓️
+- 🌐 Ethereum, 🧵 Hyperledger Fabric
+### Machine Learning 🤖
 - 🤖 PyTorch
 
 ### 📞 Contact Me ###
