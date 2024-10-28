@@ -2,7 +2,7 @@
 
 ### 💻 Software Development Engineer @ IQVIA | 🎓 CS Grad from BUET | 🚀 Backend Enthusiast | 🌐 Aspiring Tech Lead
 
-I am a **Software Development Engineer** specializing in backend technologies, with a focus on **C#**, **.NET**, and distributed systems. I am passionate about building scalable and efficient software architectures and constantly seek to improve performance and streamline processes. I am currently pursuing a Master’s in Distributed Systems at **BUET** and aspire to become a **Tech Lead/Software Architect** at a major tech company.
+I am a **Software Development Engineer** specializing in backend technologies, with a focus on **C#**, **.NET**, and distributed systems. I am passionate about building scalable and efficient software architectures and constantly seek to improve performance and streamline processes. I aspire to become a **Tech Lead/Software Architect** at a major tech company.
 
 ---
 
