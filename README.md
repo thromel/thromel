@@ -1,56 +1,159 @@
 # Hi there, I'm Tanzim Hossain Romel 👋
 
-### 💻 Software Development Engineer @ IQVIA | 🎓 CS Grad from BUET | 🚀 Backend Enthusiast | 🌐 Aspiring Tech Lead
+### 💻 Software Development Engineer @ IQVIA | 🏆 IQVIA Impact Silver Award Winner | 🎓 BUET CS Graduate | 🔬 Aspiring Researcher | 🚀 Seeking PhD/MSc 2026
 
-I am a **Software Development Engineer** specializing in backend technologies, with a focus on **C#**, **.NET**, and distributed systems. I am passionate about building scalable and efficient software architectures and constantly seek to improve performance and streamline processes. I aspire to become a **Tech Lead/Software Architect** at a major tech company.
-
----
-
-### 🔧 Technologies & Tools I Work With
-
-- **Languages & Frameworks**: C#, .NET, TypeScript, React.js, Express.js
-- **Databases**: PostgreSQL, Microsoft SQL Server, MongoDB, Redis
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD (GitLab, GitHub Actions)
-- **Other Tools**: gRPC, Microservices, Jaeger, Agile/Scrum
+I am a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and **aspiring researcher** passionate about the intersection of industry practice and academic research. My work focuses on developing enterprise-grade solutions that handle millions of patient records while conducting cutting-edge research in **AI/ML Security**, **Blockchain Technology**, and **Software Engineering**.
 
 ---
 
-### 🏆 Notable Projects
+### 🔬 Current Research Focus
 
-- **[Image Caption Generator using BERT and Attention Models](#)**: This project integrates BERT context vectors into the "Show, Attend, and Tell" image captioning model, improving accuracy, relevance, and training efficiency. By combining BERT's contextual understanding with advanced attention mechanisms, the model generates more nuanced captions for images.
+I'm actively working on research projects in collaboration with distinguished faculty:
 
-- **[Recognizing Handwritten Bangla Digits with Custom CNN](#)**: Built custom CNN architectures from scratch to recognize handwritten Bangla digits. Achieved a high test accuracy of 95.87% and implemented a comprehensive dataset preprocessing pipeline for efficient model training and evaluation.
+- **🛡️ ML/AI Security**: Analyzing vulnerabilities in machine learning model ecosystems (15 major platforms including Hugging Face Hub with 752K+ models)
+- **🔗 Blockchain in Healthcare**: Advanced framework with sharding, Layer-2 solutions, and DAG ledger implementation
+- **🤖 LLM API Contract Analysis**: Developing design-by-contract tools for LLM libraries and conducting empirical studies
+- **🖼️ Multi-Cover Image Steganography**: Extending StegFormer architecture for distributed secret embedding
 
-- **[Eventfly](https://github.com/eventfly/Microservices)**: An end-to-end event management system with microservices for newsfeed, payments, authentication, and event management. Designed and developed backend architecture using **TypeScript**, **Express.js**, **Kubernetes**, and **MongoDB**.
-
-- **[Enhancing TCP Protocol Fairness and Performance using NS3](#)**: Simulated TCP Reno and Vegas algorithms in wireless networks using NS3. Proposed an enhancement to TCP Vegas (TCP Vegas+) that improved fairness and performance, particularly in mobile scenarios.
-
-- **[Compiler for a Subset of the C Language](#)**: Developed a compiler for a subset of C using **Flex**, **Bison**, and **C/C++**. It handled lexical analysis, syntax, and semantic analysis, and generated 8086 assembly code for execution.
-
-- **[StreamVerse](https://github.com/thr0m3l/netflix)**: A video streaming platform clone with personalized recommendations, high-definition streaming, and subscription management. Built with **Oracle SQL**, **Express.js**, and **React.js**.
-
----
-
-### 🛠️ Recent Work at IQVIA
-
-As part of the **KPI Library Team**, I work on optimizing and maintaining backend systems, with achievements like:
-
-- Implementing **In-Memory Caching** for performance optimization
-- Developing a **JSON-based dashboard** creation and migration feature
-- Enhancing platform localization through a dynamic translation system
-- Streamlining CI/CD pipelines for better deployment processes
+**Research Collaborators**: 
+- [Dr. Akond Rahman](https://akondrahman.github.io) (Auburn University, PASER group)
+- [Professor A. B. M. Alim Al Islam](https://sites.google.com/site/abmalimalislam/home) (BUET)
+- [Professor ASM Latiful Hoque](https://cse.buet.ac.bd/faculty/faculty_detail/asmlatifulhoque) (BUET)
+- [Mohammad Latif Siddique](https://lsiddiqsunny.github.io) (University of Notre Dame, Meta PhD Intern)
 
 ---
 
-### 🎯 Goals
+### 🏆 Recent Achievements
 
-- **Long-term**: Tech Lead or Software Architect at a leading tech company
-- **Current**: Sharpening my skills in distributed systems and cloud-native architecture
+- **🥈 IQVIA Impact Program – Silver Award** (May 2025) - For outstanding performance and critical feature development
+- **🥈 2nd Place** - Bangla Handwritten Digits Recognition Contest (120 students, BUET)
+- **🏅 Finalist** - Blockchain Olympiad Bangladesh 2021 with "Recursively Enumerable" team
+- **📊 60% Query Optimization** - Achieved significant performance improvements in healthcare analytics platforms
+- **🤖 LLM Integration** - Successfully integrated LLM capabilities into clinical data analytics dashboards
 
 ---
 
-### 📫 Let's Connect
+### 🔧 Technology Stack & Expertise
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/r0m3l)
-- 🛠️ [GitHub](https://github.com/thr0m3l)
-- 📧 [Email](mailto:romel.rcs@gmail.com)
+**Core Technologies:**
+- **Backend**: C#, .NET Core/6+, ASP.NET Core, Entity Framework Core
+- **Cloud & DevOps**: AWS (Lambda, EC2, S3, DynamoDB), Docker, Kubernetes, CI/CD
+- **Data & ML**: Python, PyTorch, NumPy, Pandas, OpenAI API, LangChain
+- **Databases**: PostgreSQL, MongoDB, Microsoft SQL Server, Redis
+- **Blockchain**: Ethereum, Solidity, Hyperledger Fabric
+
+**Specialized Skills:**
+- Microservices Architecture & Distributed Systems
+- Healthcare Data Analytics & FHIR Standards
+- Performance Optimization & Database Tuning
+- AI/ML Security & Vulnerability Analysis
+- Observability with OpenTelemetry & Jaeger
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔒 **[ML Security Research](https://tanzimhromel.com/showcase/projects/ml-security)**
+Comprehensive security analysis of 15 major ML platforms, developing security maturity frameworks and contributing to ML supply chain security standards.
+
+#### 🎫 **[Blockchain Ticketing Platform](https://tanzimhromel.com/showcase/projects/blockchain-ticketing)** 
+BCOLBD 2021 Finalist project addressing ticket fraud through smart contracts and decentralized authentication.
+
+#### 🔢 **[Bangla Digit Recognition](https://tanzimhromel.com/showcase/projects/bangla_digit_recognition/)**
+2nd place winner - Built custom CNN from scratch using only NumPy/OpenCV, achieving 95.9% accuracy on NumtaDB benchmark.
+
+#### 🏥 **[Blockchain in Healthcare 2.0](https://tanzimhromel.com/showcase/projects/blockchain-in-healthcare-20)**
+Advanced blockchain framework with sharding, Layer-2 solutions, and privacy-preserving computation for healthcare data.
+
+#### 🎪 **[Eventfly Microservices](https://github.com/eventfly/Microservices)**
+End-to-end event management system with TypeScript, Express.js, Kubernetes, and MongoDB.
+
+#### 📝 **[Image Captioning with BERT](https://github.com/thromel/Image-Captioning-ML-Project)**
+Extended "Show, Attend, and Tell" model with BERT context vectors for improved caption quality and training efficiency.
+
+---
+
+### 💼 Professional Experience
+
+**Software Development Engineer 1 @ IQVIA** (June 2023 - Present)
+- Developing microservices-based healthcare applications handling millions of patient records
+- Architecting cloud-native applications on AWS with Lambda, EC2, S3, DynamoDB
+- Integrating LLM capabilities into clinical data analytics dashboards (85% reduction in manual processing)
+- Implementing database optimizations achieving 60% reduction in query execution times
+- Building Angular-based visualization dashboards improving client engagement by 45%
+- Maintaining 99.9% uptime with zero-downtime deployment strategies
+
+**Full Stack Engineer @ Mindshare Bangladesh** (Apr 2021 - Nov 2021)
+- Built high-performance web scraping system collecting data from 20+ e-commerce platforms
+- Architected backend system using Express.js and MongoDB for product data aggregation
+- Deployed scalable scraper infrastructure on DigitalOcean with real-time API endpoints
+
+---
+
+### 🎓 Education & Certifications
+
+**B.Sc in Computer Science and Engineering** - BUET (2018-2023)
+- **GPA**: 3.53/4.0 (Overall) | 3.86/4.0 (Sessional Courses - labs & collaborative projects)
+- **Dean's List Award** recipient
+- Specialized coursework in algorithms, systems, AI/ML, and software engineering
+
+**Current Certifications in Progress:**
+- 🔄 Certified Kubernetes Application Developer (CKAD)
+- 🔄 AWS Solution Architect Associate
+- 📜 TOEFL iBT: 103/120
+
+---
+
+### 🎯 Career Goals
+
+**🎯 Immediate Goal**: Pursuing **PhD/MSc positions for Spring/Fall 2026** in Computer Science, focusing on:
+- Software Engineering & Distributed Systems
+- AI/ML Security & Blockchain Technology
+- Applied Research with Industry Impact
+
+**🎯 Long-term Vision**: Becoming a research leader who bridges the gap between academic research and industry practice, contributing to both scientific knowledge and real-world technological advancement.
+
+---
+
+### 📚 Continuous Learning
+
+**Currently Reading:**
+- 📖 "Designing Data-Intensive Applications" by Martin Kleppmann
+- 🤖 "Hands-On Large Language Models" by Jay Alammar
+
+**Recently Completed:**
+- 🏗️ "Clean Architecture" by Robert C. Martin
+- 🎯 "Domain-Driven Design" by Eric Evans
+
+---
+
+### 🌟 Publications & Research
+
+**Under Review:**
+- "An Unconventional Tale on Sentiment Analysis over Anonymous Online Reporting" - ACM CSCW (Under Revision)
+
+**Research Contributions:**
+- Bangladesh's first anonymous online reporting system (uReporter) - covered by BBC Bengali, Saudi Gazette
+- Security analysis frameworks for ML model ecosystems
+- Advanced blockchain architectures for healthcare applications
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/thromel](https://www.linkedin.com/in/thromel)
+- 🛠️ **GitHub**: [github.com/thromel](https://github.com/thromel)
+- 🌐 **Portfolio**: [tanzimhromel.com](https://tanzimhromel.com)
+- 📧 **Email**: [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
+- 🔬 **Research Profile**: [tanzimhromel.com/research](https://tanzimhromel.com/research)
+- 📝 **Technical Blog**: [tanzimhromel.com/blog](https://tanzimhromel.com/blog)
+
+---
+
+### 📊 GitHub Stats
+
+![Tanzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=thromel&show_icons=true&theme=radical)
+
+---
+
+*"I consider myself a perpetually curious learner — viewing each new technology not just as a tool, but as a lens through which to understand deeper computational principles."*
