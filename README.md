@@ -4,6 +4,27 @@
 
 I am a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and **aspiring researcher** passionate about the intersection of industry practice and academic research. My work focuses on developing enterprise-grade solutions that handle millions of patient records while conducting cutting-edge research in **AI/ML Security**, **Blockchain Technology**, and **Software Engineering**.
 
+### 📊 Quick Stats
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Repositories-15+-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge&logo=git&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Pull_Requests-20+-orange?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Issues_Solved-10+-red?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ### 🔬 Current Research Focus
@@ -35,6 +56,28 @@ I'm actively working on research projects in collaboration with distinguished fa
 
 ### 🔧 Technology Stack & Expertise
 
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+</div>
+
 **Core Technologies:**
 - **Backend**: C#, .NET Core/6+, ASP.NET Core, Entity Framework Core
 - **Cloud & DevOps**: AWS (Lambda, EC2, S3, DynamoDB), Docker, Kubernetes, CI/CD
@@ -52,6 +95,12 @@ I'm actively working on research projects in collaboration with distinguished fa
 ---
 
 ### 🚀 Featured Projects
+
+<div align="center">
+
+[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=thromel&repo=Image-Captioning-ML-Project&theme=tokyonight&hide_border=true)](https://github.com/thromel/Image-Captioning-ML-Project)
+
+</div>
 
 #### 🔒 **[ML Security Research](https://tanzimhromel.com/showcase/projects/ml-security)**
 Comprehensive security analysis of 15 major ML platforms, developing security maturity frameworks and contributing to ML supply chain security standards.
@@ -152,7 +201,31 @@ Extended "Show, Attend, and Tell" model with BERT context vectors for improved c
 
 ### 📊 GitHub Stats
 
-![Tanzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=thromel&show_icons=true&theme=radical)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thromel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thromel&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thromel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thromel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thromel&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
