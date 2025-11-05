@@ -1,46 +1,8 @@
 # Hi there, I'm Tanzim Hossain Romel 👋
 
-### 💻 Software Development Engineer @ IQVIA | 🏆 IQVIA Impact Silver Award Winner | 🎓 BUET CS Graduate | 🔬 Aspiring Researcher | 🚀 Seeking PhD/MSc 2026
+### 💻 Software Development Engineer @ IQVIA | 🏆 IQVIA Impact Silver Award Winner | 🎓 BUET CS Graduate
 
-I am a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and **aspiring researcher** passionate about the intersection of industry practice and academic research. My work focuses on developing enterprise-grade solutions that handle millions of patient records while conducting cutting-edge research in **AI/ML Security**, **Blockchain Technology**, and **Software Engineering**.
-
-### 📊 Quick Stats
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Repositories-15+-blue?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge&logo=git&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pull_Requests-20+-orange?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Issues_Solved-10+-red?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### 🔬 Current Research Focus
-
-I'm actively working on research projects in collaboration with distinguished faculty:
-
-- **🛡️ ML/AI Security**: Analyzing vulnerabilities in machine learning model ecosystems (15 major platforms including Hugging Face Hub with 752K+ models)
-- **🔗 Blockchain in Healthcare**: Advanced framework with sharding, Layer-2 solutions, and DAG ledger implementation
-- **🤖 LLM API Contract Analysis**: Developing design-by-contract tools for LLM libraries and conducting empirical studies
-- **🖼️ Multi-Cover Image Steganography**: Extending StegFormer architecture for distributed secret embedding
-
-**Research Collaborators**: 
-- [Dr. Akond Rahman](https://akondrahman.github.io) (Auburn University, PASER group)
-- [Professor A. B. M. Alim Al Islam](https://sites.google.com/site/abmalimalislam/home) (BUET)
-- [Professor ASM Latiful Hoque](https://cse.buet.ac.bd/faculty/faculty_detail/asmlatifulhoque) (BUET)
-- [Mohammad Latif Siddique](https://lsiddiqsunny.github.io) (University of Notre Dame, Meta PhD Intern)
+I'm a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and cloud-native applications. I develop enterprise-grade solutions that handle millions of patient records, with expertise in microservices, distributed systems, and AI/ML integration.
 
 ---
 
@@ -96,29 +58,9 @@ I'm actively working on research projects in collaboration with distinguished fa
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=thromel&repo=Image-Captioning-ML-Project&theme=tokyonight&hide_border=true)](https://github.com/thromel/Image-Captioning-ML-Project)
-
-</div>
-
-#### 🔒 **[ML Security Research](https://tanzimhromel.com/showcase/projects/ml-security)**
-Comprehensive security analysis of 15 major ML platforms, developing security maturity frameworks and contributing to ML supply chain security standards.
-
-#### 🎫 **[Blockchain Ticketing Platform](https://tanzimhromel.com/showcase/projects/blockchain-ticketing)** 
-BCOLBD 2021 Finalist project addressing ticket fraud through smart contracts and decentralized authentication.
-
-#### 🔢 **[Bangla Digit Recognition](https://tanzimhromel.com/showcase/projects/bangla_digit_recognition/)**
-2nd place winner - Built custom CNN from scratch using only NumPy/OpenCV, achieving 95.9% accuracy on NumtaDB benchmark.
-
-#### 🏥 **[Blockchain in Healthcare 2.0](https://tanzimhromel.com/showcase/projects/blockchain-in-healthcare-20)**
-Advanced blockchain framework with sharding, Layer-2 solutions, and privacy-preserving computation for healthcare data.
-
-#### 🎪 **[Eventfly Microservices](https://github.com/eventfly/Microservices)**
-End-to-end event management system with TypeScript, Express.js, Kubernetes, and MongoDB.
-
-#### 📝 **[Image Captioning with BERT](https://github.com/thromel/Image-Captioning-ML-Project)**
-Extended "Show, Attend, and Tell" model with BERT context vectors for improved caption quality and training efficiency.
+- **[Eventfly Microservices](https://github.com/eventfly/Microservices)** - Event management system with TypeScript, Express.js, Kubernetes, and MongoDB
+- **[Image Captioning with BERT](https://github.com/thromel/Image-Captioning-ML-Project)** - Extended "Show, Attend, and Tell" model with BERT context vectors
+- **[Bangla Digit Recognition](https://tanzimhromel.com/showcase/projects/bangla_digit_recognition/)** - 2nd place winner, custom CNN achieving 95.9% accuracy
 
 ---
 
@@ -151,51 +93,12 @@ Extended "Show, Attend, and Tell" model with BERT context vectors for improved c
 - 🔄 AWS Solution Architect Associate
 - 📜 TOEFL iBT: 103/120
 
----
-
-### 🎯 Career Goals
-
-**🎯 Immediate Goal**: Pursuing **PhD/MSc positions for Spring/Fall 2026** in Computer Science, focusing on:
-- Software Engineering & Distributed Systems
-- AI/ML Security & Blockchain Technology
-- Applied Research with Industry Impact
-
-**🎯 Long-term Vision**: Becoming a research leader who bridges the gap between academic research and industry practice, contributing to both scientific knowledge and real-world technological advancement.
-
----
-
-### 📚 Continuous Learning
-
-**Currently Reading:**
-- 📖 "Designing Data-Intensive Applications" by Martin Kleppmann
-- 🤖 "Hands-On Large Language Models" by Jay Alammar
-
-**Recently Completed:**
-- 🏗️ "Clean Architecture" by Robert C. Martin
-- 🎯 "Domain-Driven Design" by Eric Evans
-
----
-
-### 🌟 Publications & Research
-
-**Under Review:**
-- "An Unconventional Tale on Sentiment Analysis over Anonymous Online Reporting" - ACM CSCW (Under Revision)
-
-**Research Contributions:**
-- Bangladesh's first anonymous online reporting system (uReporter) - covered by BBC Bengali, Saudi Gazette
-- Security analysis frameworks for ML model ecosystems
-- Advanced blockchain architectures for healthcare applications
-
----
-
 ### 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/thromel](https://www.linkedin.com/in/thromel)
 - 🛠️ **GitHub**: [github.com/thromel](https://github.com/thromel)
 - 🌐 **Portfolio**: [tanzimhromel.com](https://tanzimhromel.com)
 - 📧 **Email**: [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
-- 🔬 **Research Profile**: [tanzimhromel.com/research](https://tanzimhromel.com/research)
-- 📝 **Technical Blog**: [tanzimhromel.com/blog](https://tanzimhromel.com/blog)
 
 ---
 
@@ -205,28 +108,6 @@ Extended "Show, Attend, and Tell" model with BERT context vectors for improved c
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thromel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thromel&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thromel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thromel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thromel&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-*"I consider myself a perpetually curious learner — viewing each new technology not just as a tool, but as a lens through which to understand deeper computational principles."*
