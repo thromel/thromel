@@ -4,17 +4,6 @@
 
 I'm a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and cloud-native applications. I develop enterprise-grade solutions that handle millions of patient records, with expertise in microservices, distributed systems, and AI/ML integration.
 
----
-
-### 🏆 Recent Achievements
-
-- **🥈 IQVIA Impact Program – Silver Award** (May 2025) - For outstanding performance and critical feature development
-- **🥈 2nd Place** - Bangla Handwritten Digits Recognition Contest (120 students, BUET)
-- **🏅 Finalist** - Blockchain Olympiad Bangladesh 2021 with "Recursively Enumerable" team
-- **📊 60% Query Optimization** - Achieved significant performance improvements in healthcare analytics platforms
-- **🤖 LLM Integration** - Successfully integrated LLM capabilities into clinical data analytics dashboards
-
----
 
 ### 🔧 Technology Stack & Expertise
 
