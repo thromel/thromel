@@ -36,51 +36,11 @@ I'm a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing 
 - **Databases**: PostgreSQL, MongoDB, Microsoft SQL Server, Redis
 - **Blockchain**: Ethereum, Solidity, Hyperledger Fabric
 
-**Specialized Skills:**
-- Microservices Architecture & Distributed Systems
-- Healthcare Data Analytics & FHIR Standards
-- Performance Optimization & Database Tuning
-- AI/ML Security & Vulnerability Analysis
-- Observability with OpenTelemetry & Jaeger
-
----
-
 ### 🚀 Featured Projects
 
 - **[Eventfly Microservices](https://github.com/eventfly/Microservices)** - Event management system with TypeScript, Express.js, Kubernetes, and MongoDB
 - **[Image Captioning with BERT](https://github.com/thromel/Image-Captioning-ML-Project)** - Extended "Show, Attend, and Tell" model with BERT context vectors
 - **[Bangla Digit Recognition](https://tanzimhromel.com/showcase/projects/bangla_digit_recognition/)** - 2nd place winner, custom CNN achieving 95.9% accuracy
-
----
-
-### 💼 Professional Experience
-
-**Software Development Engineer 1 @ IQVIA** (June 2023 - Present)
-- Developing microservices-based healthcare applications handling millions of patient records
-- Architecting cloud-native applications on AWS with Lambda, EC2, S3, DynamoDB
-- Integrating LLM capabilities into clinical data analytics dashboards (85% reduction in manual processing)
-- Implementing database optimizations achieving 60% reduction in query execution times
-- Building Angular-based visualization dashboards improving client engagement by 45%
-- Maintaining 99.9% uptime with zero-downtime deployment strategies
-
-**Full Stack Engineer @ Mindshare Bangladesh** (Apr 2021 - Nov 2021)
-- Built high-performance web scraping system collecting data from 20+ e-commerce platforms
-- Architected backend system using Express.js and MongoDB for product data aggregation
-- Deployed scalable scraper infrastructure on DigitalOcean with real-time API endpoints
-
----
-
-### 🎓 Education & Certifications
-
-**B.Sc in Computer Science and Engineering** - BUET (2018-2023)
-- **GPA**: 3.53/4.0 (Overall) | 3.86/4.0 (Sessional Courses - labs & collaborative projects)
-- **Dean's List Award** recipient
-- Specialized coursework in algorithms, systems, AI/ML, and software engineering
-
-**Current Certifications in Progress:**
-- 🔄 Certified Kubernetes Application Developer (CKAD)
-- 🔄 AWS Solution Architect Associate
-- 📜 TOEFL iBT: 103/120
 
 ### 🌐 Connect With Me
 
