@@ -68,7 +68,7 @@ AI for Software Engineering (AI4SE) • ML Security • Empirical Software Engin
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thromel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/thromel)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thromel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/thromel)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thromel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
