@@ -1,62 +1,83 @@
-# Hi there, I'm Tanzim Hossain Romel 👋
-
-### 💻 Software Development Engineer @ IQVIA | 🏆 IQVIA Impact Silver Award Winner | 🎓 BUET CS Graduate
-
-I'm a **Software Development Engineer** at **IQVIA** (Fortune 500) specializing in healthcare data analytics and cloud-native applications. I develop enterprise-grade solutions that handle millions of patient records, with expertise in microservices, distributed systems, and AI/ML integration.
-
-
-### 🔧 Technology Stack & Expertise
-
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Tanzim+Hossain+Romel;Software+Engineer+%7C+Researcher;Open+Source+Contributor)](https://tanzimhromel.com)
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanzimhromel.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanzimhromel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thromel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thromel)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zHV4EU8AAAAJ)
 
 </div>
 
-**Core Technologies:**
-- **Backend**: C#, .NET Core/6+, ASP.NET Core, Entity Framework Core
-- **Cloud & DevOps**: AWS (Lambda, EC2, S3, DynamoDB), Docker, Kubernetes, CI/CD
-- **Data & ML**: Python, PyTorch, NumPy, Pandas, OpenAI API, LangChain
-- **Databases**: PostgreSQL, MongoDB, Microsoft SQL Server, Redis
-- **Blockchain**: Ethereum, Solidity, Hyperledger Fabric
+---
 
-### 🚀 Featured Projects
+### About Me
 
-- **[Eventfly Microservices](https://github.com/eventfly/Microservices)** - Event management system with TypeScript, Express.js, Kubernetes, and MongoDB
-- **[Image Captioning with BERT](https://github.com/thromel/Image-Captioning-ML-Project)** - Extended "Show, Attend, and Tell" model with BERT context vectors
-- **[Bangla Digit Recognition](https://tanzimhromel.com/showcase/projects/bangla_digit_recognition/)** - 2nd place winner, custom CNN achieving 95.9% accuracy
+Software Engineer at **IQVIA** building healthcare systems at scale. Passionate about **Software Engineering Research** and **Open Source**.
 
-### 🌐 Connect With Me
-
-- 💼 **LinkedIn**: [linkedin.com/in/thromel](https://www.linkedin.com/in/thromel)
-- 🛠️ **GitHub**: [github.com/thromel](https://github.com/thromel)
-- 🌐 **Portfolio**: [tanzimhromel.com](https://tanzimhromel.com)
-- 📧 **Email**: [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
+- Researching AI4SE, ML security, and empirical software engineering
+- Contributing to open source projects I use daily
+- Seeking **PhD/MSc positions for Fall 2026**
 
 ---
 
-### 📊 GitHub Stats
+### Research Interests
+
+```
+AI for Software Engineering (AI4SE) • ML Security • Empirical Software Engineering • LLM Systems
+```
+
+---
+
+### Open Source Contributions
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thromel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![TypeScript](https://img.shields.io/badge/TypeScript-microsoft%2FTypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pulls?q=author%3Athromel)
+[![EF Core](https://img.shields.io/badge/EF_Core-dotnet%2Fefcore-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/dotnet/efcore/pulls?q=author%3Athromel)
+[![LangChain](https://img.shields.io/badge/LangChain-langchain--ai%2Flangchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain/pulls?q=author%3Athromel)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thromel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thromel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/thromel)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thromel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/romel.rcs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romel.rcs@gmail.com)
 
 </div>
