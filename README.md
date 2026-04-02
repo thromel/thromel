@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Tanzim+Hossain+Romel;Software+Engineer+%7C+Researcher;Open+Source+Contributor)](https://tanzimhromel.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I'm+Tanzim+Hossain+Romel;Software+Engineer+%7C+Researcher;Incoming+M.Sc.+in+Computing+Science+at+UAlberta)](https://tanzimhromel.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanzimhromel.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanzimhromel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thromel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thromel)
@@ -12,19 +12,29 @@
 
 ### About Me
 
-Software Engineer at **IQVIA** building healthcare systems at scale. Passionate about **Software Engineering Research** and **Open Source**.
+Software Engineer at **IQVIA** building healthcare systems at scale. Incoming **M.Sc. in Computing Science** student at the **University of Alberta** starting in **September 2026**, where I will be joining **[U-A-Goose](https://u-a-goose.github.io)**.
 
-- Researching AI4SE, ML security, and empirical software engineering
-- Contributing to open source projects I use daily
-- Seeking **PhD/MSc positions for Fall 2026**
+- Researching software security, LLM agent safety, and empirical software engineering
+- Building and auditing AI-assisted systems, from secure ML ecosystems to aligned-backdoor detection in LLM agents
+- Contributing to open source projects I use regularly, especially around .NET and developer tooling
 
 ---
 
 ### Research Interests
 
 ```
-AI for Software Engineering (AI4SE) • ML Security • Empirical Software Engineering • LLM Systems
+AI for Software Engineering (AI4SE) • Software Security • LLM Agent Security • Empirical Software Engineering
 ```
+
+---
+
+### Selected Research
+
+- **[An Empirical Study on Remote Code Execution in ML Model Hosting Ecosystems](https://arxiv.org/pdf/2601.14163)**
+  Large-scale study of roughly 45,000 repositories across five ML model hosting ecosystems. **Submitted to TOSEM 2026**.
+
+- **The Choice Can Be the Attack: Auditing Aligned Backdoors in LLM Agents**
+  Building an endpoint-black-box audit for LLM agents that detects when a hidden trigger covertly changes which valid option an agent chooses.
 
 ---
 
@@ -32,9 +42,10 @@ AI for Software Engineering (AI4SE) • ML Security • Empirical Software Engin
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-microsoft%2FTypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pulls?q=author%3Athromel)
 [![EF Core](https://img.shields.io/badge/EF_Core-dotnet%2Fefcore-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/dotnet/efcore/pulls?q=author%3Athromel)
 [![LangChain](https://img.shields.io/badge/LangChain-langchain--ai%2Flangchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain/pulls?q=author%3Athromel)
+[![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-ohmyzsh%2Fohmyzsh-F15A24?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/pulls?q=author%3Athromel)
+[![GenHTTP](https://img.shields.io/badge/GenHTTP-Kaliumhexacyanoferrat%2FGenHTTP-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pulls?q=author%3Athromel)
 
 </div>
 
@@ -78,6 +89,7 @@ AI for Software Engineering (AI4SE) • ML Security • Empirical Software Engin
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/tanzimho%40ualberta.ca-2D6CC0?style=flat-square&logo=gmail&logoColor=white)](mailto:tanzimho@ualberta.ca)
 [![Email](https://img.shields.io/badge/romel.rcs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romel.rcs@gmail.com)
 
 </div>
