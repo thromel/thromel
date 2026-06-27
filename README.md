@@ -45,7 +45,7 @@ Current contribution lanes:
 | --- | --- | --- |
 | [ChannelDeck](https://github.com/thromel/channeldeck) | Native macOS IPTV player for Xtream-style accounts | Public Swift app with releases; latest release adds multiview playback, local recording, saved layouts, and M3U export |
 | [ctxhelm](https://github.com/thromel/ctxhelm) and [HelmBench](https://github.com/thromel/helmbench) | Local-first context compiler, MCP context broker, and benchmark work for AI coding agents | Systems/tooling research around context quality, navigation, and agent workflows |
-| [patchsmith](https://github.com/thromel/patchsmith) | Research platform for evaluating AI software-maintenance agents with sandboxed patch validation and evidence reports | Evaluation infrastructure for evidence-backed software-maintenance agents |
+| [PatchSmith](https://github.com/thromel/patchsmith) | Coding agent for software-maintenance tasks with sandboxed patch validation and evidence reports | Agentic repair workflow that keeps patches tied to validation evidence |
 | [1brc-csharp](https://github.com/thromel/1brc-csharp) | .NET 10 solution for the One Billion Row Challenge | Performance-oriented C#/.NET systems work |
 | [Yet-Another-C-Compiler](https://github.com/thromel/Yet-Another-C-Compiler) | C/C++ compiler project | Older systems project showing compiler pipeline work and low-level implementation experience |
 | [CSE306 Computer Architecture Sessional](https://github.com/thromel/CSE306-Computer-Architecture-Sessional) | ALU, floating-point adder, and pipelined 8-bit MIPS processor work | Older computer-architecture project with simulator-facing hardware design artifacts |
