@@ -1,95 +1,76 @@
-<div align="center">
+<h1 align="center">Tanzim Hossain Romel</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I'm+Tanzim+Hossain+Romel;Software+Engineer+%7C+Researcher;Incoming+M.Sc.+in+Computing+Science+at+UAlberta)](https://tanzimhromel.com)
+<p align="center">
+Software engineer and researcher building developer tools, AI-agent infrastructure, and reliable open-source systems.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanzimhromel.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanzimhromel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thromel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thromel)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zHV4EU8AAAAJ)
-
-</div>
-
----
-
-### About Me
-
-Software Engineer at **IQVIA** building healthcare systems at scale. Incoming **M.Sc. in Computing Science** student at the **University of Alberta** starting in **September 2026**, where I will be joining **[U-A-Goose](https://u-a-goose.github.io)**.
-
-- Researching software security, LLM agent safety, and empirical software engineering
-- Building and auditing AI-assisted systems, from secure ML ecosystems to aligned-backdoor detection in LLM agents
-- Contributing to open source projects I use regularly, especially around .NET and developer tooling
+<p align="center">
+  <a href="https://tanzimhromel.com">Portfolio</a> |
+  <a href="https://github.com/thromel?tab=repositories">Projects</a> |
+  <a href="https://github.com/pulls?q=author%3Athromel+type%3Apr+is%3Apublic">Open Source PRs</a> |
+  <a href="https://scholar.google.com/citations?user=zHV4EU8AAAAJ">Google Scholar</a> |
+  <a href="https://linkedin.com/in/thromel">LinkedIn</a>
+</p>
 
 ---
 
-### Research Interests
+## Open Source Focus
 
-```
-AI for Software Engineering (AI4SE) • Software Security • LLM Agent Security • Empirical Software Engineering
-```
+I use GitHub as a working portfolio: upstream fixes, benchmark harnesses, agent tooling, and small products that ship.
 
----
+Current contribution lanes:
 
-### Selected Research
+- **.NET and data systems**: EF Core correctness fixes, runtime migration work, and developer-facing diagnostics.
+- **Developer tooling**: RefactoringMiner MCP/WebDiff work, AST-diff correctness, compiler/toolchain fixes, and AI-assisted review workflows.
+- **Local infrastructure**: Apple `container` networking, hostname/DNS behavior, and Compose compatibility.
+- **SRE and agent evaluation**: SREGym scenarios, context-compilation tooling, and evidence-focused patch validation.
+
+## Selected Upstream Contributions
+
+| Project | Contribution lane | Examples |
+| --- | --- | --- |
+| [dotnet/efcore](https://github.com/dotnet/efcore/pulls?q=author%3Athromel) | EF Core correctness and runtime behavior | [#38493](https://github.com/dotnet/efcore/pull/38493), [#37560](https://github.com/dotnet/efcore/pull/37560), [#37415](https://github.com/dotnet/efcore/pull/37415) |
+| [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pulls?q=author%3Athromel) | MCP server support, WebDiff workflows, AST-diff robustness, performance fixes | [#1063](https://github.com/tsantalis/RefactoringMiner/pull/1063), [#1085](https://github.com/tsantalis/RefactoringMiner/pull/1085), [#1087](https://github.com/tsantalis/RefactoringMiner/pull/1087), [#1101](https://github.com/tsantalis/RefactoringMiner/pull/1101) |
+| [apple/container](https://github.com/apple/container/pulls?q=author%3Athromel) and [Container-Compose](https://github.com/Mcrich23/Container-Compose/pulls?q=author%3Athromel) | Apple container networking, hostname/DNS behavior, and Compose compatibility | [apple/container#1810](https://github.com/apple/container/pull/1810), [#1811](https://github.com/apple/container/pull/1811), [#1815](https://github.com/apple/container/pull/1815), [Container-Compose#119](https://github.com/Mcrich23/Container-Compose/pull/119) |
+| [SREGym/SREGym](https://github.com/SREGym/SREGym/pulls?q=author%3Athromel) | Kubernetes/SRE benchmark problems and failure-mode modeling | [#821](https://github.com/SREGym/SREGym/pull/821), [#828](https://github.com/SREGym/SREGym/pull/828) |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript/pulls?q=author%3Athromel), [microsoft/typescript-go](https://github.com/microsoft/typescript-go/pulls?q=author%3Athromel) | Compiler behavior, declaration emit, and type-system edge cases | [TypeScript#62836](https://github.com/microsoft/TypeScript/pull/62836), [typescript-go#3314](https://github.com/microsoft/typescript-go/pull/3314) |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain/pulls?q=author%3Athromel), [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents/pulls?q=author%3Athromel) | Agent/tool schema handling and CLI reliability | [langchain#34248](https://github.com/langchain-ai/langchain/pull/34248), [deepagents#2396](https://github.com/langchain-ai/deepagents/pull/2396) |
+
+## Ongoing Projects
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| [ChannelDeck](https://github.com/thromel/channeldeck) | Native macOS IPTV player for Xtream-style accounts | Public Swift app with releases; latest release adds multiview playback, local recording, saved layouts, and M3U export |
+| [ctxhelm](https://github.com/thromel/ctxhelm) and [HelmBench](https://github.com/thromel/helmbench) | Local-first context compiler, MCP context broker, and benchmark work for AI coding agents | Active systems/tooling research around context quality, navigation, and agent workflows |
+| [patchsmith](https://github.com/thromel/patchsmith) | Research platform for evaluating AI software-maintenance agents with sandboxed patch validation and evidence reports | Active evaluation infrastructure |
+| [1brc-csharp](https://github.com/thromel/1brc-csharp) | .NET 10 solution for the One Billion Row Challenge | Performance-oriented C#/.NET systems work |
+| [thromel.github.io](https://github.com/thromel/thromel.github.io) | Personal site and longer-form project/research notes | Public portfolio site |
+
+## Research
+
+I work at the intersection of software engineering, security, and AI-assisted development.
+
+- **AI for Software Engineering**
+- **Software Security**
+- **LLM Agent Security**
+- **Empirical Software Engineering**
+
+Selected work:
 
 - **[An Empirical Study on Remote Code Execution in ML Model Hosting Ecosystems](https://arxiv.org/pdf/2601.14163)**
-  Large-scale study of roughly 45,000 repositories across five ML model hosting ecosystems. **Submitted to TOSEM 2026**.
+  Large-scale study of roughly 45,000 repositories across five ML model hosting ecosystems. Submitted to TOSEM 2026.
 
 - **The Choice Can Be the Attack: Auditing Aligned Backdoors in LLM Agents**
-  Building an endpoint-black-box audit for LLM agents that detects when a hidden trigger covertly changes which valid option an agent chooses.
+  Endpoint-black-box audit design for detecting hidden triggers that covertly change which valid option an LLM agent chooses.
 
----
+## About
 
-### Open Source Contributions
+Software Engineer at **IQVIA** building healthcare systems at scale. Incoming **M.Sc. in Computing Science** student at the **University of Alberta** starting in **September 2026**, joining **[U-A-Goose](https://u-a-goose.github.io)**.
 
-<div align="center">
+I am most interested in systems where engineering quality is measurable: reproducible benchmarks, reviewable patches, runtime evidence, and security boundaries that hold up under real workflows.
 
-[![EF Core](https://img.shields.io/badge/EF_Core-dotnet%2Fefcore-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/dotnet/efcore/pulls?q=author%3Athromel)
-[![LangChain](https://img.shields.io/badge/LangChain-langchain--ai%2Flangchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain/pulls?q=author%3Athromel)
-[![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-ohmyzsh%2Fohmyzsh-F15A24?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/pulls?q=author%3Athromel)
-[![GenHTTP](https://img.shields.io/badge/GenHTTP-Kaliumhexacyanoferrat%2FGenHTTP-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pulls?q=author%3Athromel)
+## Contact
 
-</div>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thromel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/thromel)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thromel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/tanzimho%40ualberta.ca-2D6CC0?style=flat-square&logo=gmail&logoColor=white)](mailto:tanzimho@ualberta.ca)
-[![Email](https://img.shields.io/badge/romel.rcs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romel.rcs@gmail.com)
-
-</div>
+- Portfolio: [tanzimhromel.com](https://tanzimhromel.com)
+- Email: [tanzimho@ualberta.ca](mailto:tanzimho@ualberta.ca)
+- Email: [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
