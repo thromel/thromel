@@ -1,7 +1,7 @@
 <h1 align="center">Tanzim Hossain Romel</h1>
 
 <p align="center">
-Software engineer and researcher building developer tools, SRE benchmarks, AI-agent infrastructure, and reliable open-source systems.
+I ship upstream fixes to .NET, TypeScript, and Apple/container, build benchmark and agent tooling on the side, and write about software security.
 </p>
 
 <p align="center">
@@ -20,68 +20,55 @@ Software engineer and researcher building developer tools, SRE benchmarks, AI-ag
 
 ---
 
-## Open Source Focus
+## What I work on
 
-I use GitHub as a working portfolio: upstream fixes, benchmark harnesses, agent tooling, and small products that ship.
+Six lanes I'm actively contributing in, June 2026 snapshot:
 
-June 2026 snapshot: **69 public authored PRs**, including **58 PRs outside my own repositories** and **44 merged PRs**. Full index: [author:thromel public PRs](https://github.com/pulls?q=author%3Athromel+type%3Apr+is%3Apublic).
+- **.NET and data systems** — EF Core correctness, migrations, relational behavior.
+- **Developer tooling** — RefactoringMiner (MCP/WebDiff, AST-diff), compiler fixes in TypeScript and `typescript-go`.
+- **Local infrastructure** — Apple `container` networking, hostname/DNS, Compose compatibility.
+- **SRE and agent evaluation** — SREGym benchmark scenarios, context compilation, patch validation tied to tests.
+- **Agent runtimes** — schema/tooling fixes in LangChain, DeepAgents, and the OpenAI Python SDK.
+- **Research** — software security, LLM agent security, empirical SE (papers below).
 
-Current contribution lanes:
+[69 public authored PRs](https://github.com/pulls?q=author%3Athromel+type%3Apr+is%3Apublic) — 58 outside my own repos, 44 merged.
 
-- **.NET and data systems**: EF Core correctness fixes, runtime migration work, relational behavior, and developer-facing diagnostics.
-- **Developer tooling**: RefactoringMiner MCP/WebDiff work, AST-diff correctness, compiler/toolchain fixes, and AI-assisted review workflows.
-- **Local infrastructure**: Apple `container` networking, hostname/DNS behavior, and Compose compatibility.
-- **SREGym and agent evaluation**: Kubernetes/SRE benchmark scenarios, context-compilation tooling, and evidence-focused patch validation.
+## Selected projects
 
-## Selected Upstream Contributions
+| Project | What it does |
+| --- | --- |
+| [ChannelDeck](https://github.com/thromel/channeldeck) | Native macOS IPTV player for Xtream-style APIs. Multiview, local recording, saved layouts, M3U export. |
+| [ctxhelm](https://github.com/thromel/ctxhelm) and [HelmBench](https://github.com/thromel/helmbench) | Local-first context compiler and MCP context broker, plus benchmark work for AI coding agents. |
+| [PatchSmith](https://github.com/thromel/patchsmith) | Coding agent for software-maintenance tasks. Sandboxed patch validation, evidence reports per patch. |
+| [1brc-csharp](https://github.com/thromel/1brc-csharp) | .NET 10 take on the One Billion Row Challenge. |
+| [Yet-Another-C-Compiler](https://github.com/thromel/Yet-Another-C-Compiler) | C/C++ compiler. |
+| [CSE-306 / CSE-314](https://github.com/thromel/CSE306-Computer-Architecture-Sessional) | Coursework: 8-bit MIPS pipeline, ALU, FPU; low-level C++ OS work. |
 
-| Project | Contribution lane | PRs |
+## Selected upstream contributions
+
+| Project | Lane | Notable PRs |
 | --- | --- | --- |
-| [dotnet/efcore](https://github.com/dotnet/efcore/pulls?q=author%3Athromel) | EF Core correctness, migrations, and relational behavior | [#38493](https://github.com/dotnet/efcore/pull/38493) complex collection original values, [#37560](https://github.com/dotnet/efcore/pull/37560) nullable complex reload, [#37415](https://github.com/dotnet/efcore/pull/37415) runtime migration creation/application, [#37380](https://github.com/dotnet/efcore/pull/37380) `ON DELETE SET DEFAULT` |
-| [SREGym/SREGym](https://github.com/SREGym/SREGym/pulls?q=author%3Athromel) | Kubernetes/SRE benchmark problems and failure-mode modeling | [#828](https://github.com/SREGym/SREGym/pull/828) Calico route-reflector label drift, [#821](https://github.com/SREGym/SREGym/pull/821) priority preemption cascade |
-| [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pulls?q=author%3Athromel) | MCP server support, WebDiff workflows, AST-diff robustness, performance fixes | 15 authored PRs, including [#1063](https://github.com/tsantalis/RefactoringMiner/pull/1063), [#1064](https://github.com/tsantalis/RefactoringMiner/pull/1064), [#1085](https://github.com/tsantalis/RefactoringMiner/pull/1085), [#1087](https://github.com/tsantalis/RefactoringMiner/pull/1087), [#1101](https://github.com/tsantalis/RefactoringMiner/pull/1101) |
-| [apple/container](https://github.com/apple/container/pulls?q=author%3Athromel) and [Container-Compose](https://github.com/Mcrich23/Container-Compose/pulls?q=author%3Athromel) | Apple container networking, hostname/DNS behavior, and Compose compatibility | [apple/container#1810](https://github.com/apple/container/pull/1810), [#1811](https://github.com/apple/container/pull/1811), [#1813](https://github.com/apple/container/pull/1813), [#1815](https://github.com/apple/container/pull/1815), [Container-Compose#119](https://github.com/Mcrich23/Container-Compose/pull/119) |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript/pulls?q=author%3Athromel), [microsoft/typescript-go](https://github.com/microsoft/typescript-go/pulls?q=author%3Athromel) | Compiler behavior, declaration emit, and type-system edge cases | [TypeScript#62836](https://github.com/microsoft/TypeScript/pull/62836), [#62899](https://github.com/microsoft/TypeScript/pull/62899), [#62904](https://github.com/microsoft/TypeScript/pull/62904), [#62931](https://github.com/microsoft/TypeScript/pull/62931), [typescript-go#3314](https://github.com/microsoft/typescript-go/pull/3314) |
-| [langchain-ai](https://github.com/pulls?q=author%3Athromel+org%3Alangchain-ai+type%3Apr) and [openai/openai-python](https://github.com/openai/openai-python/pulls?q=author%3Athromel) | Agent/tool schema handling, model API behavior, and CLI reliability | [langchain#34248](https://github.com/langchain-ai/langchain/pull/34248), [#34201](https://github.com/langchain-ai/langchain/pull/34201), [#34376](https://github.com/langchain-ai/langchain/pull/34376), [deepagents#2396](https://github.com/langchain-ai/deepagents/pull/2396), [openai-python#2765](https://github.com/openai/openai-python/pull/2765) |
-| [Kaliumhexacyanoferrat/GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pulls?q=author%3Athromel), [gudarzi/SaveHere](https://github.com/gudarzi/SaveHere/pulls?q=author%3Athromel), [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/pulls?q=author%3Athromel) | Web framework behavior, downloader reliability, and developer tooling quality-of-life fixes | GenHTTP [#770](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pull/770), [#771](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pull/771), [#772](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pull/772), [#773](https://github.com/Kaliumhexacyanoferrat/GenHTTP/pull/773); SaveHere [#69](https://github.com/gudarzi/SaveHere/pull/69), [#71](https://github.com/gudarzi/SaveHere/pull/71), [#72](https://github.com/gudarzi/SaveHere/pull/72), [#73](https://github.com/gudarzi/SaveHere/pull/73); [ohmyzsh#13472](https://github.com/ohmyzsh/ohmyzsh/pull/13472) |
-
-## Selected Projects
-
-| Project | What it is | Why it is here |
-| --- | --- | --- |
-| [ChannelDeck](https://github.com/thromel/channeldeck) | Native macOS IPTV player for Xtream-style accounts | Public Swift app with releases; latest release adds multiview playback, local recording, saved layouts, and M3U export |
-| [ctxhelm](https://github.com/thromel/ctxhelm) and [HelmBench](https://github.com/thromel/helmbench) | Local-first context compiler, MCP context broker, and benchmark work for AI coding agents | Systems/tooling research around context quality, navigation, and agent workflows |
-| [PatchSmith](https://github.com/thromel/patchsmith) | Coding agent for software-maintenance tasks with sandboxed patch validation and evidence reports | Agentic repair workflow that keeps patches tied to validation evidence |
-| [1brc-csharp](https://github.com/thromel/1brc-csharp) | .NET 10 solution for the One Billion Row Challenge | Performance-oriented C#/.NET systems work |
-| [Yet-Another-C-Compiler](https://github.com/thromel/Yet-Another-C-Compiler) | C/C++ compiler project | Older systems project showing compiler pipeline work and low-level implementation experience |
-| [CSE306 Computer Architecture Sessional](https://github.com/thromel/CSE306-Computer-Architecture-Sessional) | ALU, floating-point adder, and pipelined 8-bit MIPS processor work | Older computer-architecture project with simulator-facing hardware design artifacts |
-| [CSE-314 Operating System Sessional](https://github.com/thromel/CSE-314-Operating-System-Sessional) | Operating-systems coursework and systems programming | Older low-level C++/systems project that rounds out the portfolio beyond web/profile work |
+| [dotnet/efcore](https://github.com/dotnet/efcore/pulls?q=author%3Athromel) | EF Core correctness, migrations, relational behavior | [#38493](https://github.com/dotnet/efcore/pull/38493), [#37560](https://github.com/dotnet/efcore/pull/37560), [#37415](https://github.com/dotnet/efcore/pull/37415), [#37380](https://github.com/dotnet/efcore/pull/37380) |
+| [SREGym](https://github.com/SREGym/SREGym/pulls?q=author%3Athromel) | Kubernetes/SRE benchmark scenarios | [#828](https://github.com/SREGym/SREGym/pull/828), [#821](https://github.com/SREGym/SREGym/pull/821) |
+| [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pulls?q=author%3Athromel) | MCP server, WebDiff, AST-diff, perf | 15 PRs incl. [#1063](https://github.com/tsantalis/RefactoringMiner/pull/1063), [#1085](https://github.com/tsantalis/RefactoringMiner/pull/1085), [#1101](https://github.com/tsantalis/RefactoringMiner/pull/1101) |
+| [apple/container](https://github.com/apple/container/pulls?q=author%3Athromel), [Container-Compose](https://github.com/Mcrich23/Container-Compose/pulls?q=author%3Athromel) | Apple container networking, DNS, Compose | [apple/container#1810](https://github.com/apple/container/pull/1810), [#1811](https://github.com/apple/container/pull/1811), [#1815](https://github.com/apple/container/pull/1815), [Container-Compose#119](https://github.com/Mcrich23/Container-Compose/pull/119) |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript/pulls?q=author%3Athromel), [typescript-go](https://github.com/microsoft/typescript-go/pulls?q=author%3Athromel) | Compiler behavior, declaration emit, type-system edge cases | [TypeScript#62836](https://github.com/microsoft/TypeScript/pull/62836), [#62899](https://github.com/microsoft/TypeScript/pull/62899), [#62931](https://github.com/microsoft/TypeScript/pull/62931), [typescript-go#3314](https://github.com/microsoft/typescript-go/pull/3314) |
+| [langchain-ai](https://github.com/pulls?q=author%3Athromel+org%3Alangchain-ai+type%3Apr), [openai/openai-python](https://github.com/openai/openai-python/pulls?q=author%3Athromel) | Agent/tool schema, model API behavior, CLI reliability | [langchain#34248](https://github.com/langchain-ai/langchain/pull/34248), [#34201](https://github.com/langchain-ai/langchain/pull/34201), [openai-python#2765](https://github.com/openai/openai-python/pull/2765) |
 
 ## Research
 
-I work at the intersection of software engineering, security, and AI-assisted development.
+Two threads I'm publishing in: AI for software engineering, and software/LLM-agent security.
 
-- **AI for Software Engineering**
-- **Software Security**
-- **LLM Agent Security**
-- **Empirical Software Engineering**
-
-Selected work:
-
-- **[An Empirical Study on Remote Code Execution in ML Model Hosting Ecosystems](https://arxiv.org/pdf/2601.14163)**
-  Large-scale study of roughly 45,000 repositories across five ML model hosting ecosystems. Submitted to TOSEM 2026.
-
-- **The Choice Can Be the Attack: Auditing Aligned Backdoors in LLM Agents**
-  Endpoint-black-box audit design for detecting hidden triggers that covertly change which valid option an LLM agent chooses.
+- **[An Empirical Study on Remote Code Execution in ML Model Hosting Ecosystems](https://arxiv.org/pdf/2601.14163)** — ~45k repositories across five ML model hosting ecosystems. Submitted to TOSEM 2026.
+- **The Choice Can Be the Attack: Auditing Aligned Backdoors in LLM Agents** — endpoint black-box audit for detecting triggers that change which valid option an LLM agent picks.
 
 ## About
 
-Software Engineer at **IQVIA** building healthcare systems at scale. Incoming **M.Sc. in Computing Science** student at the **University of Alberta** starting in **September 2026**, joining **[U-A-Goose](https://u-a-goose.github.io)**.
+Software Engineer at **IQVIA** (healthcare systems). Incoming M.Sc. in Computing Science at the **University of Alberta**, starting September 2026 — joining [U-A-Goose](https://u-a-goose.github.io).
 
-I am most interested in systems where engineering quality is measurable: reproducible benchmarks, reviewable patches, runtime evidence, and security boundaries that hold up under real workflows.
+Reach me if you're working on reproducible benchmarks, reviewable patches, runtime evidence, or LLM agent security.
 
 ## Contact
 
 - Portfolio: [tanzimhromel.com](https://tanzimhromel.com)
-- Email: [tanzimho@ualberta.ca](mailto:tanzimho@ualberta.ca)
-- Email: [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
+- Email: [tanzimho@ualberta.ca](mailto:tanzimho@ualberta.ca) or [romel.rcs@gmail.com](mailto:romel.rcs@gmail.com)
