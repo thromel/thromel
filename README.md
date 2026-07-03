@@ -12,6 +12,12 @@ Software engineer and researcher building developer tools, SRE benchmarks, AI-ag
   <a href="https://linkedin.com/in/thromel">LinkedIn</a>
 </p>
 
+<p align="center">
+  <a href="https://gitfut.com/thromel?country=bd">
+    <img src="https://gitfut.com/thromel/opengraph-image" alt="GitFut card for thromel" />
+  </a>
+</p>
+
 ---
 
 ## Open Source Focus
